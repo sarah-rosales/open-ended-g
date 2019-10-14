@@ -1,0 +1,14 @@
+h1 {
+  font-size: 21px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
